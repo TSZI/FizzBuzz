@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #2563c0;
-    --secondary-color: #ee764b;
+    --primary-color: #292929;
+    --secondary-color: #0faea5;
     --dark-color: #292929;
     --white-color: #e8ebe9;
 }
@@ -63,7 +63,7 @@ main > .container {
 }
 
 .js-icon {
-    color: rgb(226.211, 4);
+    color: #e4d407;
 }
 
 .html5-icon {
@@ -76,6 +76,21 @@ main > .container {
 
 .checklist li i {
     color: var(--secondary-color);
+}
+
+.FizzBuzz {
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+
+.Fizz {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.Buzz {
+    color: darkblue;
+    font-weight: bold;
 }
 
 /* PRISM */
